@@ -326,7 +326,7 @@ span{
     display: flex;
     flex-direction: column;
     text-align: left;
-    max-height: 200px;
+    max-height: 300px;
     justify-content: center;
     align-items: baseline;
 }
